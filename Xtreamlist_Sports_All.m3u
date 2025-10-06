@@ -2179,7 +2179,7 @@ http://185.243.7.141:80/live/5d137c98f7/58d39404890d/444243.ts
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/773199.ts
 #EXTINF:-1 tvg-id="viaplayppv" tvg-name="####### VIAPLAY PPV #######" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="FINLAND VIAPLAY PPV",####### VIAPLAY PPV #######
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1634182.ts
-#EXTINF:-1 tvg-id="fiviaplayppv1noeventstreaming8kexclusive" tvg-name="FI: VIAPLAY PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="FINLAND VIAPLAY PPV",FI: VIAPLAY PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="fiviaplayppv1premierpadelmilanp1mon6thoct1500vn8kexclusive" tvg-name="FI: VIAPLAY PPV 1 - PREMIER PADEL MILAN P1 | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="FINLAND VIAPLAY PPV",FI: VIAPLAY PPV 1 - PREMIER PADEL MILAN P1 | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1634181.ts
 #EXTINF:-1 tvg-id="fiviaplayppv10noeventstreaming8kexclusive" tvg-name="FI: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="FINLAND VIAPLAY PPV",FI: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1634172.ts
@@ -5427,7 +5427,7 @@ http://185.243.7.141:80/live/5d137c98f7/58d39404890d/254998.ts
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/334008.ts
 #EXTINF:-1 tvg-id="viaplayvipppv" tvg-name="##### VIAPLAY VIP PPV #####" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="DENMARK VIAPLAY PPV",##### VIAPLAY VIP PPV #####
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1111932.ts
-#EXTINF:-1 tvg-id="dkviaplayppv1viaplaysportnewsneestrupraserogguldfuglennarteyflyvermon6thoct1300vn8kexclusive" tvg-name="DK: VIAPLAY PPV 1 - VIAPLAY SPORT NEWS NEESTRUP RASER OG GULDFUGLEN NARTEY FLYVER | Mon 6th Oct 13:00 (VN)| 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="DENMARK VIAPLAY PPV",DK: VIAPLAY PPV 1 - VIAPLAY SPORT NEWS NEESTRUP RASER OG GULDFUGLEN NARTEY FLYVER | Mon 6th Oct 13:00 (VN)| 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="dkviaplayppv1viaplaysportnewstvudbruddetheftigkritikefteremfiaskomon6thoct1600vn8kexclusive" tvg-name="DK: VIAPLAY PPV 1 - VIAPLAY SPORT NEWS TV-UDBRUDDET: HEFTIG KRITIK EFTER EM-FIASKO | Mon 6th Oct 16:00 (VN)| 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="DENMARK VIAPLAY PPV",DK: VIAPLAY PPV 1 - VIAPLAY SPORT NEWS TV-UDBRUDDET: HEFTIG KRITIK EFTER EM-FIASKO | Mon 6th Oct 16:00 (VN)| 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1637519.ts
 #EXTINF:-1 tvg-id="dkviaplayppv10noeventstreaming8kexclusive" tvg-name="DK: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="DENMARK VIAPLAY PPV",DK: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1637510.ts
@@ -5449,7 +5449,7 @@ http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1637503.ts
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1637502.ts
 #EXTINF:-1 tvg-id="dkviaplayppv19noeventstreaming8kexclusive" tvg-name="DK: VIAPLAY PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="DENMARK VIAPLAY PPV",DK: VIAPLAY PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1637501.ts
-#EXTINF:-1 tvg-id="dkviaplayppv2noeventstreaming8kexclusive" tvg-name="DK: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="DENMARK VIAPLAY PPV",DK: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="dkviaplayppv2premierpadelmilanp1mon6thoct1500vn8kexclusive" tvg-name="DK: VIAPLAY PPV 2 - PREMIER PADEL MILAN P1 | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="DENMARK VIAPLAY PPV",DK: VIAPLAY PPV 2 - PREMIER PADEL MILAN P1 | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1637518.ts
 #EXTINF:-1 tvg-id="dkviaplayppv20noeventstreaming8kexclusive" tvg-name="DK: VIAPLAY PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="DENMARK VIAPLAY PPV",DK: VIAPLAY PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1637500.ts
@@ -6641,7 +6641,7 @@ http://185.243.7.141:80/live/5d137c98f7/58d39404890d/247682.ts
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/247683.ts
 #EXTINF:-1 tvg-id="viaplayppv" tvg-name="####### VIAPLAY PPV #######" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="NORWAY VIAPLAY PPV",####### VIAPLAY PPV #######
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1735578.ts
-#EXTINF:-1 tvg-id="noviaplayppv1noeventstreaming8kexclusive" tvg-name="NO: VIAPLAY PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="NORWAY VIAPLAY PPV",NO: VIAPLAY PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="noviaplayppv1premierpadelmilanp1mon6thoct1500vn8kexclusive" tvg-name="NO: VIAPLAY PPV 1 - PREMIER PADEL MILAN P1 | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="NORWAY VIAPLAY PPV",NO: VIAPLAY PPV 1 - PREMIER PADEL MILAN P1 | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1735577.ts
 #EXTINF:-1 tvg-id="noviaplayppv10noeventstreaming8kexclusive" tvg-name="NO: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="NORWAY VIAPLAY PPV",NO: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1735568.ts
@@ -7205,7 +7205,7 @@ http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1834211.ts
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1834210.ts
 #EXTINF:-1 tvg-id="sesvenskbilsporttvppv9noeventstreaming8kexclusive" tvg-name="SE: SVENSKBILSPORTTV PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://51.158.145.100/picons/logos/logos/SVENSK-BILSPORT.png" group-title="SWEDEN SVENSKBIL SPORT TV PPV",SE: SVENSKBILSPORTTV PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1834209.ts
-#EXTINF:-1 tvg-id="seviaplayppv1noeventstreaming8kexclusive" tvg-name="SE: VIAPLAY PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="SWEDEN VIAPLAY PPV VIP",SE: VIAPLAY PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="seviaplayppv1tikitakatikitakamon6thoct1500vn8kexclusive" tvg-name="SE: VIAPLAY PPV 1 - TIKI-TAKA TIKI-TAKA | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="SWEDEN VIAPLAY PPV VIP",SE: VIAPLAY PPV 1 - TIKI-TAKA TIKI-TAKA | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1592563.ts
 #EXTINF:-1 tvg-id="seviaplayppv10noeventstreaming8kexclusive" tvg-name="SE: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="SWEDEN VIAPLAY PPV VIP",SE: VIAPLAY PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1592572.ts
@@ -7227,7 +7227,7 @@ http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1592579.ts
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1592580.ts
 #EXTINF:-1 tvg-id="seviaplayppv19noeventstreaming8kexclusive" tvg-name="SE: VIAPLAY PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="SWEDEN VIAPLAY PPV VIP",SE: VIAPLAY PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1592581.ts
-#EXTINF:-1 tvg-id="seviaplayppv2noeventstreaming8kexclusive" tvg-name="SE: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="SWEDEN VIAPLAY PPV VIP",SE: VIAPLAY PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="seviaplayppv2premierpadelmilanp1mon6thoct1500vn8kexclusive" tvg-name="SE: VIAPLAY PPV 2 - PREMIER PADEL MILAN P1 | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="SWEDEN VIAPLAY PPV VIP",SE: VIAPLAY PPV 2 - PREMIER PADEL MILAN P1 | Mon 6th Oct 15:00 (VN)| 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1592564.ts
 #EXTINF:-1 tvg-id="seviaplayppv20noeventstreaming8kexclusive" tvg-name="SE: VIAPLAY PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="SWEDEN VIAPLAY PPV VIP",SE: VIAPLAY PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://185.243.7.141:80/live/5d137c98f7/58d39404890d/1592582.ts
